@@ -1,0 +1,4 @@
+# VS Code / OS specific
+.vscode/
+.DS_Store
+Thumbs.db
