@@ -1,0 +1,4 @@
+local SPACE = {
+}
+
+return SPACE
