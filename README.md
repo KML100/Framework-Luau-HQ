@@ -4,7 +4,7 @@ OS is a Object Oriented Object Factory, a mouthful, I know. So, you know the bas
 
 What if... what if we just do this instead.
 
-## In this we assume FLHQ is in ReplicatedStorage and this a ModuleScript
+(In this we assume FLHQ is in ReplicatedStorage and this a ModuleScript, change to code format preview to have a better look at that example code below)
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local FLHQ = require(ReplicatedStorage.FrameworkLuauHQ)
